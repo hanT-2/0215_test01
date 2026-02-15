@@ -1,5 +1,5 @@
 {
-  "name": "First Purchase Conversion Landing Page",
-  "description": "A conversion-focused landing page designed to lower the barrier for first-time customers using trust-building offers and risk reversal strategies.",
+  "name": "High-Conversion Landing Page (Vanilla JS)",
+  "description": "A zero-build, conversion-focused landing page using Vanilla JS and Tailwind CSS for maximum compatibility and performance.",
   "requestFramePermissions": []
 }
